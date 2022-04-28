@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Supras Sederhana (Dengan Nav dan Frag)</string>
+    <string name="text1">Foto 1</string>
+    <string name="text2">Foto 2</string>
+    <string name="text3">Foto 3</string>
+    <string name="text4">Foto 4</string>
+    <string name="text5">Foto 5</string>
+    <string name="text6">Foto 6</string>
+    <string name="text7">Foto 7</string>
+    <string name="text8">Foto 8</string>
+    <string name="text9">Foto 9</string>
+    <string name="text10">Foto 10</string>
+    <string name="beranda">Selamat Datang</string>
+    <string name="buka">Buka Konten</string>
+    <string name="kembali">Kembali</string>
+</resources>
